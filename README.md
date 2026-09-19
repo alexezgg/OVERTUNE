@@ -1,11 +1,11 @@
 ```
-      ::::::::  :::     ::: :::::::::: ::::::::: ::::::::::: :::    ::: ::::    ::: :::::::::: 
-    :+:    :+: :+:     :+: :+:        :+:    :+:    :+:     :+:    :+: :+:+:   :+: :+:         
-   +:+    +:+ +:+     +:+ +:+        +:+    +:+    +:+     +:+    +:+ :+:+:+  +:+ +:+          
-  +#+    +:+ +#+     +:+ +#++:++#   +#++:++#:     +#+     +#+    +:+ +#+ +:+ +#+ +#++:++#      
- +#+    +#+  +#+   +#+  +#+        +#+    +#+    +#+     +#+    +#+ +#+  +#+#+# +#+            
-#+#    #+#   #+#+#+#   #+#        #+#    #+#    #+#     #+#    #+# #+#   #+#+# #+#             
-########      ###     ########## ###    ###    ###      ########  ###    #### ##########       
+            ::::::::  :::     ::: :::::::::: ::::::::: ::::::::::: :::    ::: ::::    ::: :::::::::: 
+          :+:    :+: :+:     :+: :+:        :+:    :+:    :+:     :+:    :+: :+:+:   :+: :+:         
+         +:+    +:+ +:+     +:+ +:+        +:+    +:+    +:+     +:+    +:+ :+:+:+  +:+ +:+          
+        +#+    +:+ +#+     +:+ +#++:++#   +#++:++#:     +#+     +#+    +:+ +#+ +:+ +#+ +#++:++#      
+       +#+    +#+  +#+   +#+  +#+        +#+    +#+    +#+     +#+    +#+ +#+  +#+#+# +#+            
+      #+#    #+#   #+#+#+#   #+#        #+#    #+#    #+#     #+#    #+# #+#   #+#+# #+#             
+      ########      ###     ########## ###    ###    ###      ########  ###    #### ##########       
 ```
 
 
@@ -16,7 +16,7 @@
 - Bersihkan temp files, cache browser, cache Windows Update, Recycle Bin
 - Trim RAM & scan/kill proses berat
 - Power Plan Switcher (termasuk Ultimate Performance)
-- FPS Booster untuk gaming
+- FPS Booster untuk **GAYMING**
 - Kelola startup programs & background apps
 - Info sistem lengkap (CPU/RAM/GPU/disk)
 - Network tools (DNS flush, ping test, speed test)
@@ -40,4 +40,4 @@ Aplikasi otomatis minta akses **Administrator** karena sebagian besar fitur butu
 - Proses sistem kritikal (explorer, lsass, dll) diproteksi dari fitur kill process
 - Semua fitur pakai WinAPI/WMI bawaan Windows, tanpa koneksi server pihak ketiga (kecuali speed test)
 
-## HANYA TERSEDIA BAHASA INDONESIA / ONLY AVAILABLE INDONESIA LANGUAGE
+## HANYA TERSEDIA BAHASA INDONESIA / ONLY AVAILABLE IN INDONESIAN LANGUAGE
